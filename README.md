@@ -6,6 +6,7 @@
 
 TU20D is this guy.
 
+![IMG_4896](https://user-images.githubusercontent.com/95418272/210528535-db88acc2-c52d-4564-8fb1-f94e6e041c34.JPG)
 
 
 ### User Interface
@@ -38,6 +39,7 @@ GUI.startGUI()
 
 BTU133 is this guy.
 
+![IMG_5207](https://user-images.githubusercontent.com/95418272/210528558-dc65e68c-be3a-4b68-bd78-0dec522e2289.JPG)
 
 
 ### User Interface
