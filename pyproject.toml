@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "LabGadgetsLib"
+version = "0.0.1"
+authors = [
+  { name="Yu Xia", email="yxia404@ucsb.edu" },
+]
+description = "An assemble package to operate some devices in FemtoLab."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/SugarMooon/LabGadgetsLib"
+"Bug Tracker" = "https://github.com/SugarMooon/LabGadgetsLib"
